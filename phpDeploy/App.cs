@@ -182,7 +182,7 @@ namespace phpDeploy
              * Alright.
              * Now we can start loading deployments.
              */
-            this.LoadDeployments(); 
+            this.LoadDeployments();
 
             /*
              * Finally, build the taskbar menu.
